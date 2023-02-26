@@ -1,0 +1,92 @@
+2023-02-26 10:33:42.087472
+best url links:
+ https://cloud.google.com/security/compliance/iso-27017
+https://cloud.google.com/security/compliance/soc-2?hl=fr
+https://cloud.google.com/security/compliance/soc-2
+https://cloud.google.com/files/gcp-mpaa-compliancemapping.pdf
+https://www.fortinet.com/content/dam/fortinet/assets/certifications/fortinet-federal-certifications.pdf
+https://www.voegol.com.br/en/sobre-a-gol/sustentabilidade
+https://www.fortinet.com/corporate/about-us/product-certifications/service-organization-controls-soc2-compliance
+https://cloud.google.com/security/compliance/iso-27701
+https://cloud.google.com/security/compliance/iso-9001?hl=fr
+https://cloud.google.com/security/compliance/pci-dss
+https://cloud.google.com/security/compliance/soc-2?hl=es-419
+https://www.microsoft.com/en-us/responsible-sourcing/procurement
+https://cloud.google.com/security/compliance/nist800-34
+https://cloud.google.com/security/compliance/soc-2?hl=es
+https://cloud.google.com/files/Google_SOC3_2016.pdf
+https://cloud.google.com/security/compliance/soc-2?hl=de
+https://www.fortinet.com/corporate/about-us/product-certifications/fips
+https://www.roberthalf.com/about-robert-half/data-privacy/cyber-security
+https://www.roberthalf.com/privacy-policy
+https://www.voegol.com.br/en-us/about-gol/sustainability
+https://cloud.google.com/security/compliance/iso-9001?hl=it
+https://www.fortinet.com/corporate/about-us/gdpr
+https://cloud.google.com/security/compliance/iso-27018
+https://www.fortinet.com/lat/corporate/about-us/privacy
+https://cloud.google.com/security/compliance/soc-3?hl=de
+https://cloud.google.com/security/compliance/iso-50001
+https://www.fortinet.com/corporate/about-us/product-certifications/iso27001-compliance
+https://www.warnerbros.com/privacy
+https://cloud.google.com/files/GCP_SOC3_2017.pdf
+https://cloud.google.com/security/compliance/iso-22301
+https://cloud.google.com/security/compliance/iso-27001
+https://www.microsoft.com/en-us/corporate-responsibility/reports-hub
+https://cloud.google.com/filestore/docs/compliance
+https://cloud.google.com/security/compliance/soc-2?hl=th
+https://cloud.google.com/security/compliance/iso-9001
+https://cloud.google.com/privacy/gdpr
+https://www.fortinet.com/corporate/about-us/product-certifications
+https://cloud.google.com/security/compliance/soc-3
+https://cloud.google.com/security/compliance/nist800-53
+https://cloud.google.com/security/compliance/hipaa
+
+Missing URLs in the updated file: 
+https://cloud.google.com/security/compliance/iso-27017
+https://cloud.google.com/security/compliance/soc-2?hl=fr
+https://cloud.google.com/security/compliance/soc-2
+https://cloud.google.com/files/gcp-mpaa-compliancemapping.pdf
+https://www.fortinet.com/content/dam/fortinet/assets/certifications/fortinet-federal-certifications.pdf
+https://www.voegol.com.br/en/sobre-a-gol/sustentabilidade
+https://www.fortinet.com/corporate/about-us/product-certifications/service-organization-controls-soc2-compliance
+https://cloud.google.com/security/compliance/iso-27701
+https://cloud.google.com/security/compliance/iso-9001?hl=fr
+https://cloud.google.com/security/compliance/pci-dss
+https://cloud.google.com/security/compliance/soc-2?hl=es-419
+https://cloud.google.com/security/compliance/nist800-34
+https://cloud.google.com/security/compliance/soc-2?hl=es
+https://cloud.google.com/files/Google_SOC3_2016.pdf
+https://cloud.google.com/security/compliance/soc-2?hl=de
+https://www.fortinet.com/corporate/about-us/product-certifications/fips
+https://www.roberthalf.com/about-robert-half/data-privacy/cyber-security
+https://www.roberthalf.com/privacy-policy
+https://www.voegol.com.br/en-us/about-gol/sustainability
+https://cloud.google.com/security/compliance/iso-9001?hl=it
+https://www.fortinet.com/corporate/about-us/gdpr
+https://cloud.google.com/security/compliance/iso-27018
+https://www.fortinet.com/lat/corporate/about-us/privacy
+https://cloud.google.com/security/compliance/soc-3?hl=de
+https://cloud.google.com/security/compliance/iso-50001
+https://www.fortinet.com/corporate/about-us/product-certifications/iso27001-compliance
+https://www.warnerbros.com/privacy
+https://cloud.google.com/files/GCP_SOC3_2017.pdf
+https://cloud.google.com/security/compliance/iso-22301
+https://cloud.google.com/security/compliance/iso-27001
+https://www.microsoft.com/en-us/corporate-responsibility/reports-hub
+https://cloud.google.com/filestore/docs/compliance
+https://cloud.google.com/security/compliance/soc-2?hl=th
+https://cloud.google.com/security/compliance/iso-9001
+https://cloud.google.com/privacy/gdpr
+https://www.fortinet.com/corporate/about-us/product-certifications
+https://cloud.google.com/security/compliance/soc-3
+https://cloud.google.com/security/compliance/nist800-53
+https://cloud.google.com/security/compliance/hipaa
+
+Bad URLs in the updated file: 
+
+Number of examples of good urls in the file 1 out of 40
+Number of examples of bad urls in the file 0 out of 640
+Number of lines in the old file: 5652
+Number of lines in the updated file: 89
+Improve result by: 98.43%
+-------- 
